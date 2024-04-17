@@ -1,2 +1,3 @@
 # RProject
-Nothing but R project folder
+
+This is my first R project folder
